@@ -14,6 +14,7 @@ import pickle
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 import numpy as np
+import scikit-learn as sk
 
 # Load the trained k-NN model
 # Ensure the path to your model file is correct
