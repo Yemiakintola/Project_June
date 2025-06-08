@@ -11,6 +11,7 @@ machine learning models to predict crop to be planted provided with other featur
 
 import os
 os.environ["OMP_NUM_THREADS"] = "1"
+from sklearn.preprocessing import StandardScaler
 
     # Now import sklearn and other libraries
 from sklearn.cluster import KMeans
