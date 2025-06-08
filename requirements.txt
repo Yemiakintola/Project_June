@@ -1,9 +1,4 @@
 numpy
-packaging
 pandas
-requests
-rpds-py
-six
-smmap
 scikit-learn
 streamlit
