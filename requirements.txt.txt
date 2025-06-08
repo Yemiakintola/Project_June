@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
-scikit-learn
 pandas
 numpy
 joblib
@@ -9,3 +8,4 @@ seaborn as sns
 sklearn StandardScaler
 OneHotEncoder
 LabelEncoder
+scikit-learn
